@@ -6,15 +6,14 @@ A Python project using pandas for data analysis and visualization of demographic
 ## Overview
 
 
-This project provides a comprehensive analysis of demographic data using pandas, a powerful data analysis library in Python. The project includes a Python module `demographic_data_analyzer` that contains functions to calculate and visualize demographic data.
+This project provides a comprehensive analysis of demographic data using pandas, a powerful data analysis library in Python. The project includes a Python module `demographic_data_analyzer` that contains functions to calculate useful statistics about the demographic data.
 
 ## Features
 
 
-*   Calculates demographic data from a CSV file
+*   Reads demographic data from a CSV file
 *   Provides insights into demographic characteristics such as age, education, and occupation
 *   Analyzes the relationship between demographic characteristics and income
-*   Visualizes demographic data using pandas
 
 ## Requirements
 
